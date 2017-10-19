@@ -1,0 +1,18 @@
+TO Do Rough Draft
+ 
+ -Get Pixel Poi for teensy on main branch
+    -How to know its working?
+ 
+ -Get code to run LSMDS91 magnetometer/accelerometer on teensy 
+    -Spin LSMDS91 around and see if the values measured make any sense?
+ 
+ -Get both sets of code to operate together 
+    -Waving a APA102+LSMDS91 wand around can we display something?
+ 
+ -Use Jhorowitz image converter, generate array to send to apa102
+    -Figure out how to store and access this array from the SD slot
+    -Store generated image on SD card, Access/display the array with the press of a button
+    -work out how to access a sequence of Arrays 1 after another to create the elusion of an animated POV display.  
+ 
+
+  
